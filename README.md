@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" width="400" align="right" alt="Computer"/>
 <h1 align="center">Hi, I'm João Gabriel </h1>
-<h3 align="center">I'm Computer engineering student in Instituto Federal do Ceará and Software Engineer</h3>
+<h3 align="center" style="text-decoration: none;">I'm Computer engineering student in Instituto Federal do Ceará and Software Engineer</h3>
 <h3 align="center">and a Electronics Technician by Instituto Federal do Ceará and Software Engineer </h3>
 <li align="left">📝 <strong>I’m currently working at Moldsoft Technology as Jr. Software Developer</strong></li>
 <li align="left">🌱 <strong> I’m currently learning FullStack Development</strong></li>
