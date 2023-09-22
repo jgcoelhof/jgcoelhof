@@ -1,10 +1,15 @@
-<h1 align="center">Hi, I'm João Gabriel</h1>
-<h2 align="center">I'm Computer engineering student in Instituto Federal do Ceará and Software Engineer</h2>
-<h3 align="center">and a Electronics Technician by Instituto Federal do Ceará and Software Engineer </h3>
-<li align="left">📝 <strong>I’m currently working at Moldsoft Technology as Jr. Software Developer</strong></li>
-<li align="left">🌱 <strong> I’m currently learning FullStack Development</strong></li>
-<li align="left">⚡ <strong>Fun fact: I'm a space and IA entusiast!</strong></li>
-<h4 align="left">Connect with me:</h4>
+### Hi, I'm João Gabriel
+<img src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" width="400" align="right" alt="Computer"/>
+
+### I'm Computer engineering student in Instituto Federal do Ceará and Software Engineer
+
+### and a Electronics Technician by Instituto Federal do Ceará and Software Engineer
+
+*   📝 *I’m currently working at Moldsoft Technology as Jr. Software Developer*
+*   🌱 *I’m currently learning FullStack Development*
+*   ⚡ *Fun fact: I'm a space and IA entusiast!*
+
+### Connect with me:
 <p align="left">
    <a href="https://www.linkedin.com/in/joaogcf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaograbrielc/" height="30" width="40" /></a>
    <ahref="jgabrielcfeitosa@gmail.com?subject=Hello%22" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="jgabrielcfeitosa@gmail.com?subject=Hello%22" height="30" width="40"/></a>
