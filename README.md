@@ -6,8 +6,8 @@
 
 <h3 align="center">and a Electronics Technician by Instituto Federal do Ceará and Software Engineer</h3>
 
-*   📝 *I’m currently working at Moldsoft Technology as Jr. Software Developer*
-*   🌱 *I’m currently learning FullStack Development*
+*   📝 *I’m currently working at Institute of Management, Technological Networks and Energy as Scholarship Holder*
+*   🌱 *I’m currently learning Rust*
 *   ⚡ *Fun fact: I'm a space and IA entusiast!*
 
 ### Connect with me:
